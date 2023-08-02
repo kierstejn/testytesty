@@ -1,0 +1,7 @@
+{
+  "name": "hococo-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
